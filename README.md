@@ -1,7 +1,12 @@
-[![MARCO MALIK](https://raw.githubusercontent.com/ADEEL-XMD/ADEEL-AI-XD/main/Adeel/brahvi.svg)](https://whatsapp.com/channel/0029Vb2RnBlHgZWeOydeRV1H)
+[![MARCO MALIK](https://raw.githubusercontent.com/MARCO_MALIK/MARCO-AI-XD/main/MARCO/MALIK.svg)](https://whatsapp.com/channel/0029Vb2RnBlHgZWeOydeRV1H)
 
 ___              
-  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h2 align="center">
    <span style="color:#00FFFF">مــــؔــــارکــــؔــو مــؔــالــؔــــک</span> 
 </h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FF00&center=true&width=810&height=100&lines=+MARCO MALIK" alt="Typing SVG" /></a>
