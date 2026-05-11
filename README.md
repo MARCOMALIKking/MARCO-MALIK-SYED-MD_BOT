@@ -7,7 +7,7 @@ ___
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-   <span style="color:#00FFFF">مــــؔــــافـــــؔــیــــا عــؔــدیــؔـــــل</span> 
+   <span style="color:#00FFFF">مــــؔــــارکــــؔــو مــؔــالــؔــــک</span> 
 </h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FF00&center=true&width=810&height=100&lines=+MAFIA-ADEEL" alt="Typing SVG" /></a>
   </p>
