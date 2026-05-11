@@ -18,7 +18,7 @@ ___
 <h1 align="center">ᖴOᖇK ᖇᗴᑭO</h1>
 
 <p align="center">
-  <a href="https://github.com/ADEEL-XMD/ADEEL-AI-XD/fork">
+  <a href="[https://github.com/MARCOMALIKking/MARCO-MALIK-SYED-MD_BOT]]https://github.com/MARCOMALIKking/MARCO-MALIK-SYED-MD_BOT/fork">
     <img src="./Malik/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
@@ -27,7 +27,7 @@ ___
 <h1 align="center"> ᘜᗴT ᑭᗩIᖇ </h1>
 
 <p align="center">
-  <a href="whats-app-linker--sherrylaal2.replit.app/">
+  <a href="whats-app-linker--sherrylaal2.replit.app">
     <img src="./Malik/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
@@ -36,7 +36,7 @@ ___
 
 <p align="center">
   <a href="https://railway.com//new?template=https://github.com/ADEEL-XMD/ADEEL-AI-XD/tree/main">
-    <img src="./MALIK/deploy-btn.svg" alt="DEPLOY ON RAILWAY" width="260"/>
+    <img src="./MARCO/deploy-btn.svg" alt="DEPLOY ON RAILWAY" width="260"/>
   </a>
 </p>
 
