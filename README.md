@@ -27,7 +27,7 @@ ___
 <h1 align="center"> ᘜᗴT ᑭᗩIᖇ </h1>
 
 <p align="center">
-  <a href="https://whats-app-linker--sherrylaal2.replit.app.com/">
+  <a href="https://whats-app-linker--sherrylaal2.replit.app/">
     <img src="./Adeel/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
