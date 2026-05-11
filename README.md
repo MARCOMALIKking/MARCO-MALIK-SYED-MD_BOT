@@ -1,4 +1,4 @@
-[![MARCO MALIK](https://raw.githubusercontent.com/ADEEL-XMD/ADEEL-AI-XD/main/Adeel/brahvi.svg)](https://whatsapp.com/channel/0029Vb2RnBlHgZWeOydeRV1H)
+[![MAFIA ADEEL](https://raw.githubusercontent.com/ADEEL-XMD/ADEEL-AI-XD/main/Adeel/brahvi.svg)](https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R)
 
 ___              
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -7,9 +7,9 @@ ___
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-   <span style="color:#00FFFF">مــــؔــــارکــــؔــو مــؔــالــؔــــک</span> 
+   <span style="color:#00FFFF">مــــؔــــافـــــؔــیــــا عــؔــدیــؔـــــل</span> 
 </h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FF00&center=true&width=810&height=100&lines=+MARCO MALIK" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FF00&center=true&width=810&height=100&lines=+MAFIA-ADEEL" alt="Typing SVG" /></a>
   </p>
 <p align='center'>
     </p>
@@ -19,7 +19,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/ADEEL-XMD/ADEEL-AI-XD/fork">
-    <img src="./Malik/fork-btn.svg" alt="Fork Repository"/>
+    <img src="./Adeel/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
 
@@ -27,16 +27,16 @@ ___
 <h1 align="center"> ᘜᗴT ᑭᗩIᖇ </h1>
 
 <p align="center">
-  <a href="whats-app-linker--sherrylaal2.replit.app/">
-    <img src="./Malik/get-session-btn.svg" alt="GET SESSION" width="260"/>
+  <a href="https://adeelxdpair-598dc54e0b14.herokuapp.com/">
+    <img src="./Adeel/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
 
 <h1 align="center"> ᗪᗴᑭᒪOY </h1>
 
 <p align="center">
-  <a href="https://railway.com//new?template=https://github.com/ADEEL-XMD/ADEEL-AI-XD/tree/main">
-    <img src="./MALIK/deploy-btn.svg" alt="DEPLOY ON RAILWAY" width="260"/>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/ADEEL-XMD/ADEEL-AI-XD/tree/main">
+    <img src="./Adeel/deploy-btn.svg" alt="DEPLOY ON HEROKU" width="260"/>
   </a>
 </p>
 
@@ -46,14 +46,14 @@ ___
 
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb2RnBlHgZWeOydeRV1H">
-    <img src="./MALIK/join-channel-btn.svg" alt="Join Channel"/>
+  <a href="https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R">
+    <img src="./Adeel/join-channel-btn.svg" alt="Join Channel"/>
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=923706328012">
+  <a href="https://api.whatsapp.com/send?phone=923174830990">
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Developer"/>
   </a>
 </p>
