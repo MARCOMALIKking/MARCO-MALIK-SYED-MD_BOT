@@ -1,4 +1,4 @@
-[![MAFIA ADEEL](https://raw.githubusercontent.com/ADEEL-XMD/ADEEL-AI-XD/main/Adeel/brahvi.svg)](https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R)
+[![MARCO MALIK](https://raw.githubusercontent.com/ADEEL-XMD/ADEEL-AI-XD/main/Adeel/brahvi.svg)](https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R)
 
 ___              
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -18,7 +18,7 @@ ___
 <h1 align="center">ᖴOᖇK ᖇᗴᑭO</h1>
 
 <p align="center">
-  <a href="https://github.com/MARCOMALIKking/MARCO-MALIK-SYED-MD_BOT/fork">
+  <a href="https://github.com/MARCOMALIKking/MARCO-MALIK-SYED-MD_BOT.git/fork">
     <img src="./Adeel/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
