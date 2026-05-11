@@ -18,7 +18,7 @@ ___
 <h1 align="center">ᖴOᖇK ᖇᗴᑭO</h1>
 
 <p align="center">
-  <a href="https://github.com/MARCOMALIKking/MARCO-MALIK-SYED-MD_BOT/frok">
+  <a href="https://github.com/MARCO-MALIK-SYED-MD_BOT/frok">
     <img src="./Adeel/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
